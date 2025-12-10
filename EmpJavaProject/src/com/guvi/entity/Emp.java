@@ -18,8 +18,9 @@ public class Emp {
 	@Override
 	public String toString() {
 	
-		return empId +"";
+		return empId +"" + empName;
+
 	}
 	
-
+    
 }
